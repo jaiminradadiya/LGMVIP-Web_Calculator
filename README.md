@@ -1,4 +1,4 @@
-Calculator
+# Calculate 
 
 Calculate is a simple command-line tool for performing basic arithmetic operations. It supports addition, subtraction, multiplication, and division for integers and decimals.
 
@@ -24,5 +24,10 @@ calculate 5.5 + 2.5
 calculate 5.5 / 2
 # 2.75
 
-Contributing
+## Contributing
+
 If you find a bug or want to request a new feature, please open an issue on the https://github.com/rjaimin31/LGMVIP-Web_Calculator. If you want to contribute code, please open a pull request. All contributions are welcome!
+
+## License
+
+[MIT](https://github.com/rjaimin31/LGMVIP-Web_Calculator/blob/04efef21fbd7d5d73940efddf566ea92e3640f76/LICENSE)
